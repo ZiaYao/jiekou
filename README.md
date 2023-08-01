@@ -1,63 +1,80 @@
-## 1. TVBox 1.0.0 开发阶段 版本更新频繁，可以等稳定再用，不需要提问报错。 
+### TVBox 开源版
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可  URL站源规则   
+### 版本
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`　`https://raw.iqiq.io/liu673cn/box/main/m.json`   
+ 🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://liucn.lanzouf.com/idz8n0r4nbgh)　🔰UI美化版[TVBox_takagen99_20230527-1118.apk](https://liucn.lanzouc.com/iOKTw0xhmbti)　  
+ 🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
-- TVBox 开源版，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`　`https://raw.iqiq.io/liu673cn/box/main/dm.txt`   
+ 🔰原版[影视仓V3-3.0.32.apk](https://www.lanzouj.com/iMXCX0yq1zxa)　🔰原版[影视仓4.0.32_1.apk](https://www.lanzouj.com/itlyT0yq1zda)
+- 🔰UI改版[可视TVMax_1.6.4.apk](https://liucn.lanzouj.com/iavNj0y5b5sj)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
-- 移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。
+- 3.内置版  
+  🔰[苹果_4.4.apk](https://liucn.lanzouj.com/iFjfV0yuatwb)　魔改版
 
-- 本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。
+TVbox开源版 | 多仓版-安卓哥开发
+---------|---------
+![box](https://raw.liucn.cc/box/sub/img/box01.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓01.jpg)
+![box](https://raw.liucn.cc/box/sub/img/box02.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓02.jpg)
 
-- 设置——配置地址——输入你的站源规则——确定即可；
+MXPlayer-Pro-1.46.10高级解锁版   
+[https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
+[https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
 
-### 2. 下载地址
+------
+### 开源仓库
+https://github.com/  
+https://gitlab.com/  
 
- - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
+https://gitee.com/  
+https://coding.net/  
+https://www.jihulab.com/
 
- - TVbox2022 https://pan.quark.cn/s/4990bab723a1
+https://gitcode.net/  
+https://gitea.com/  
+https://agit.ai/  
+https://notabug.org/  
 
- - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
+EGP源  
+http://epg.51zmt.top:8000/e.xml  
+https://epg.112114.xyz/pp.xml  
 
-### 3. 半自动工具Vivi TV Pro  
-
-- 下载地址1： https://wklb258.lanzouu.com/iDv8p0754huj  
-- 下载地址2： https://pan.quark.cn/s/c281c158f236  
-
-### 4. 使用设置  
-
-1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`
-
-2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
-- 本地配置规则 clan://localhost/Download/BroWser/   
-
-本地配置地址 (三选一 \ 切换着看) [TVBox.Quark下载](https://pan.quark.cn/s/ac29d8ad60ed) [TVBox.Lanzou下载](https://melor.lanzoub.com/irfJ1071czne)    
-● 本地配置地址1：clan://localhost/TVBox/ts.json    
-● 本地配置地址2：clan://localhost/TVBox/bc.json   
-● 本地配置地址3：clan://localhost/TVBox/xm.json   
-
-3). 使用半自动工具ViViTV  
-- 一款实时更新的第三方工具箱，一键安装软件，一键配置接口   
-
---------
-![TVbox01](https://liu673cn.github.io/mao/sub/TVbox/TVbox01.jpg) <br />
-![TVbox02](https://liu673cn.github.io/mao/sub/TVbox/TVbox02.jpg) <br />
-![TVbox03](https://liu673cn.github.io/mao/sub/TVbox/TVbox03.jpg) <br />
-![TVbox04](https://liu673cn.github.io/mao/sub/TVbox/TVbox04.jpg) <br />
-
---------
+------
+### 给英文不好的朋友
+GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
+Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)  
 
 ### Github RAW 加速服务
-https://www.7ed.net/#/raw-cdn
 
-https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
+源码   `https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json`  
+香港   `https://raw.iqiq.io/liu673cn/box/main/m.json`  
+新加坡 `https://raw.kgithub.com/liu673cn/box/main/m.json`  
+日本  
+`https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json`  
+`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
+`https://raw.fastgit.org/liu673cn/box/main/m.json`  
+韩国  
+`https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
+`https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
 
-https://raw.fastgit.org/
+`https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json`  
+`https://raw.githubusercontents.com/liu673cn/box/main/m.json`  
 
-https://raw-gh.gcdn.mirr.one/
+### Github 静态加速  
+`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
 
-https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
+`https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
 
-https://gitlab.com/liu673cn/mao/-/raw/main/m
+`https://purge.jsdelivr.net/gh/`  
+🔰[https://itvbox.lanzoub.com/b0erx68gf](https://itvbox.lanzoub.com/b0erx68gf#4e93)  
 
---------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。
+------
+### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
 
